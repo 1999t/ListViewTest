@@ -1,13 +1,4 @@
 # ListViewTest
-目录
-
-一、ListView用法
-
-二、定制ListView界面
-
-三、提升ListView的运行效率
-
-四、设置ListView点击事件
 
 一、ListView用法
 
